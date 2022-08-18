@@ -1,0 +1,38 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.id.bni.agen46",
+      "sha256_cert_fingerprints": [
+        "59:EE:54:90:FB:EE:AA:81:10:69:EB:E7:0E:90:19:55:76:6B:75:2D:60:E0:97:F2:A5:68:7B:D9:2B:47:90:AE"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.id.bni.agen46",
+      "sha256_cert_fingerprints": [
+        "ED:FB:E9:B5:03:D0:3A:DB:4F:D9:81:26:F8:B2:0E:67:CF:60:AF:E7:AE:DF:21:A3:96:2B:6F:30:EC:73:18:D2"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.id.bni.agen46",
+      "sha256_cert_fingerprints": [
+        "15:D7:B6:42:42:BD:7E:D9:9D:BA:73:24:74:8B:E7:A7:99:2A:72:6F:66:71:21:5F:71:B6:0F:CF:E1:EA:29:2E"
+      ]
+    }
+  }
+]
